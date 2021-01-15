@@ -41,7 +41,6 @@
 
 N/A 
 
-<br>
 
 ## 🎴 como usar?
 
